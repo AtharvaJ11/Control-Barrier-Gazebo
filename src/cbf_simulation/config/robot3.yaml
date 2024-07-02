@@ -1,0 +1,15 @@
+nexus1_x: 0.0
+nexus1/y: 0.0
+nexus1/yaw: 0.0
+nexus1/goal_x: 1.0
+nexus1/goal_y: 1.0
+nexus2/x: 1.0
+nexus2/y: 1.0
+nexus2/yaw: 1.5
+nexus2/goal_x: 2.0
+nexus2/goal_y: 2.0
+nexus3/x: 2.0
+nexus3/y: 2.0
+nexus3/yaw: -1.5
+nexus3/goal_x: 3.0
+nexus3/goal_y: 3.0
