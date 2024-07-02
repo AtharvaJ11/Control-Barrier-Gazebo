@@ -1,2 +1,0 @@
-cbf_simulation:nexus_4wd_mecanum_simulator/nexus_4wd_mecanum_description:nexus_4wd_mecanum_simulator/nexus_4wd_mecanum_gazebo
--DCATKIN_DEVEL_PREFIX=/home/anatharv1/cbf_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anatharv1/cbf_ws/install -G Unix Makefiles
