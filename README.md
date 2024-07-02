@@ -1,4 +1,4 @@
-# Control-Barrier-Gazebo
+# Control Barrier Functions for Multirobot Collision Avoidance
 
 The project is an implementation of the following research paper. Li Wang, A. D. Ames, and M. Egerstedt, "Safety Barrier Certificates for Collisions-Free Multirobot Systems," IEEE Transactions on Robotics, vol. 33, no. 3, pp. 661-674, June 2017.
 
